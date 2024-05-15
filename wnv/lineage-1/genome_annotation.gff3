@@ -1,7 +1,7 @@
 ##gff-version 3
 ##sequence-region NC_009942.1 1 11029
 NC_009942.1	RefSeq	region	1	11029	.	+	.	ID=NC_009942.1:1..11029;Dbxref=taxon:11082;country=USA;gb-acronym=WNV;gbkey=Src;genome=genomic;isolate=385-99;mol_type=genomic RNA;note=lineage 1%3B Vero cell passage 2 after isolation;strain=NY99
-NC_009942.1	RefSeq	CDS	96	465	.	+	.	Name=capsid;ID=id-YP_001527877.1:1..123;gbkey=Prot;product=anchored capsid protein ancC;protein_id=YP_005097850.1
+NC_009942.1	RefSeq	CDS	95	465	.	+	.	Name=capsid;ID=id-YP_001527877.1:1..123;gbkey=Prot;product=anchored capsid protein ancC;protein_id=YP_005097850.1
 NC_009942.1	RefSeq	CDS	465	966	.	+	.	Name=prM;ID=id-YP_001527877.1:124..215;gbkey=Prot;product=protein pr;protein_id=YP_009164953.1
 NC_009942.1	RefSeq	CDS	966	2469	.	+	.	Name=env;ID=id-YP_001527877.1:291..791;gbkey=Prot;product=envelope protein E;protein_id=YP_001527880.1
 NC_009942.1	RefSeq	CDS	2469	3525	.	+	.	Name=NS1;ID=id-YP_001527877.1:792..1143;gbkey=Prot;product=nonstructural protein NS1;protein_id=YP_001527881.1
