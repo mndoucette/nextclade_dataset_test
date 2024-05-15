@@ -2,13 +2,13 @@
 ##sequence-region NC_009942.1 1 11029
 NC_009942.1	RefSeq	region	1	11029	.	+	.	ID=NC_009942.1:1..11029;Dbxref=taxon:11082;country=USA;gb-acronym=WNV;gbkey=Src;genome=genomic;isolate=385-99;mol_type=genomic RNA;note=lineage 1%3B Vero cell passage 2 after isolation;strain=NY99
 NC_009942.1	RefSeq	CDS	97	465	.	+	.	Name=capsid;ID=id-YP_001527877.1:1..123;gbkey=Prot;product=anchored capsid protein ancC;protein_id=YP_005097850.1
-NC_009942.1	RefSeq	CDS	465	966	.	+	.	Name=prM;ID=id-YP_001527877.1:124..215;gbkey=Prot;product=protein pr;protein_id=YP_009164953.1
-NC_009942.1	RefSeq	CDS	966	2469	.	+	.	Name=env;ID=id-YP_001527877.1:291..791;gbkey=Prot;product=envelope protein E;protein_id=YP_001527880.1
-NC_009942.1	RefSeq	CDS	2469	3525	.	+	.	Name=NS1;ID=id-YP_001527877.1:792..1143;gbkey=Prot;product=nonstructural protein NS1;protein_id=YP_001527881.1
-NC_009942.1	RefSeq	CDS	3525	4218	.	+	.	Name=NS2A;ID=id-YP_001527877.1:1144..1374;gbkey=Prot;product=nonstructural protein NS2A;protein_id=YP_001527882.1
-NC_009942.1	RefSeq	CDS	4218	4611	.	+	.	Name=NS2B;ID=id-YP_001527877.1:1375..1505;gbkey=Prot;product=nonstructural protein NS2B;protein_id=YP_001527883.1
-NC_009942.1	RefSeq	CDS	4611	6468	.	+	.	Name=NS3;ID=id-YP_001527877.1:1506..2124;gbkey=Prot;product=nonstructural protein NS3;protein_id=YP_001527884.1
-NC_009942.1	RefSeq	CDS	6468	6846	.	+	.	Name=NS4A;ID=id-YP_001527877.1:2125..2250;gbkey=Prot;product=nonstructural protein NS4A;protein_id=YP_001527885.1
-NC_009942.1	RefSeq	CDS	6846	6915	.	+	.	Name=2K;ID=id-YP_001527877.1:2251..2273;gbkey=Prot;product=protein 2K;protein_id=YP_001527885.1
-NC_009942.1	RefSeq	CDS	6915	7680	.	+	.	Name=NS4B;ID=id-YP_001527877.1:2274..2528;gbkey=Prot;product=nonstructural protein NS4B;protein_id=YP_001527886.1
+NC_009942.1	RefSeq	CDS	466	966	.	+	.	Name=prM;ID=id-YP_001527877.1:124..215;gbkey=Prot;product=protein pr;protein_id=YP_009164953.1
+NC_009942.1	RefSeq	CDS	967	2469	.	+	.	Name=env;ID=id-YP_001527877.1:291..791;gbkey=Prot;product=envelope protein E;protein_id=YP_001527880.1
+NC_009942.1	RefSeq	CDS	2470	3525	.	+	.	Name=NS1;ID=id-YP_001527877.1:792..1143;gbkey=Prot;product=nonstructural protein NS1;protein_id=YP_001527881.1
+NC_009942.1	RefSeq	CDS	3526	4218	.	+	.	Name=NS2A;ID=id-YP_001527877.1:1144..1374;gbkey=Prot;product=nonstructural protein NS2A;protein_id=YP_001527882.1
+NC_009942.1	RefSeq	CDS	4219	4611	.	+	.	Name=NS2B;ID=id-YP_001527877.1:1375..1505;gbkey=Prot;product=nonstructural protein NS2B;protein_id=YP_001527883.1
+NC_009942.1	RefSeq	CDS	4612	6468	.	+	.	Name=NS3;ID=id-YP_001527877.1:1506..2124;gbkey=Prot;product=nonstructural protein NS3;protein_id=YP_001527884.1
+NC_009942.1	RefSeq	CDS	6469	6846	.	+	.	Name=NS4A;ID=id-YP_001527877.1:2125..2250;gbkey=Prot;product=nonstructural protein NS4A;protein_id=YP_001527885.1
+NC_009942.1	RefSeq	CDS	6847	6915	.	+	.	Name=2K;ID=id-YP_001527877.1:2251..2273;gbkey=Prot;product=protein 2K;protein_id=YP_001527885.1
+NC_009942.1	RefSeq	CDS	6916	7680	.	+	.	Name=NS4B;ID=id-YP_001527877.1:2274..2528;gbkey=Prot;product=nonstructural protein NS4B;protein_id=YP_001527886.1
 NC_009942.1	RefSeq	CDS	7681	10395	.	+	.	Name=NS5;ID=id-YP_001527877.1:2529..3433;gbkey=Prot;product=RNA-dependent RNA polymerase NS5;protein_id=YP_001527887.1
