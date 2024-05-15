@@ -4,7 +4,6 @@
     "reference": "reference.fasta",
     "pathogenJson": "pathogen.json",
     "genomeAnnotation": "genome_annotation.gff3",
-    "examples": "sequences.fasta",
     "readme": "README.md",
     "changelog": "CHANGELOG.md"
   },
