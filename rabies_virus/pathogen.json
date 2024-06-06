@@ -13,12 +13,10 @@
   "experimental": true,
   "files": {
     "changelog": "CHANGELOG.md",
-	"examples": "sequences.fasta",
     "genomeAnnotation": "genome_annotation.gff3",
     "pathogenJson": "pathogen.json",
     "readme": "README.md",
     "reference": "reference.fasta",
-    "treeJson": "tree.json"
   },
   "meta": {
     "bugs": "https://github.com/nextstrain/nextclade_data/issues",
