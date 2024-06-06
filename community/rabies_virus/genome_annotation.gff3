@@ -4,8 +4,8 @@
 ##sequence-region EU311738.3 1 11925
 ##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11292
 EU311738.3	Genbank	region	1	11925	.	+	.	ID=EU311738.3:1..11925;Dbxref=taxon:11292;collection-date=1999;country=Canada;gbkey=Src;isolate=RRV ON-99-2;isolation-source=raccoon brain;mol_type=viral cRNA;nat-host=Procyon lotor;old-name=Rabies virus
-EU311738.3	Genbank	CDS	71	1423	.	+	0	ID=cds-ACA03774.2;Parent=gene-N;Dbxref=NCBI_GP:ACA03774.2;Name=N;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=ACA03774.2
-EU311738.3	Genbank	CDS	1514	2419	.	+	0	ID=cds-ACA03775.1;Parent=gene-P;Dbxref=NCBI_GP:ACA03775.1;Name=P;gbkey=CDS;gene=P;product=phosphoprotein;protein_id=ACA03775.1
-EU311738.3	Genbank	CDS	2496	3104	.	+	0	ID=cds-ACA03776.2;Parent=gene-M;Dbxref=NCBI_GP:ACA03776.2;Name=M;gbkey=CDS;gene=M;product=matrix protein;protein_id=ACA03776.2
-EU311738.3	Genbank	CDS	3316	4890	.	+	0	ID=cds-ACA03777.2;Parent=gene-G;Dbxref=NCBI_GP:ACA03777.2;Name=G;gbkey=CDS;gene=G;product=glycoprotein;protein_id=ACA03777.2
-EU311738.3	Genbank	CDS	5407	11793	.	+	0	ID=cds-ACA03778.3;Parent=gene-L;Dbxref=NCBI_GP:ACA03778.3;Name=L;gbkey=CDS;gene=L;product=RNA dependent RNA polymerase;protein_id=ACA03778.3
+EU311738.3	Genbank	CDS	71	1423	.	+	0	ID=cds-ACA03774.2;Dbxref=NCBI_GP:ACA03774.2;Name=N;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=ACA03774.2
+EU311738.3	Genbank	CDS	1514	2419	.	+	0	ID=cds-ACA03775.1;Dbxref=NCBI_GP:ACA03775.1;Name=P;gbkey=CDS;gene=P;product=phosphoprotein;protein_id=ACA03775.1
+EU311738.3	Genbank	CDS	2496	3104	.	+	0	ID=cds-ACA03776.2;Dbxref=NCBI_GP:ACA03776.2;Name=M;gbkey=CDS;gene=M;product=matrix protein;protein_id=ACA03776.2
+EU311738.3	Genbank	CDS	3316	4890	.	+	0	ID=cds-ACA03777.2;Dbxref=NCBI_GP:ACA03777.2;Name=G;gbkey=CDS;gene=G;product=glycoprotein;protein_id=ACA03777.2
+EU311738.3	Genbank	CDS	5407	11793	.	+	0	ID=cds-ACA03778.3;Dbxref=NCBI_GP:ACA03778.3;Name=L;gbkey=CDS;gene=L;product=RNA dependent RNA polymerase;protein_id=ACA03778.3
